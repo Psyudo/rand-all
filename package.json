@@ -1,0 +1,19 @@
+{
+  "name": "zrandom",
+  "version": "0.0.1",
+  "description": "Randomiser library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Psyudo/rand-all.git"
+  },
+  "author": "Psyudo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Psyudo/rand-all/issues"
+  },
+  "homepage": "https://github.com/Psyudo/rand-all#readme"
+}
