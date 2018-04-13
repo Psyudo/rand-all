@@ -1,0 +1,2 @@
+# rand-all
+Randomiser library
